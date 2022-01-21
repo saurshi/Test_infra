@@ -1,6 +1,3 @@
-# litelitelite_infra
-litelitelite Infra repository
-
 ## Выполнено ДЗ №8
 
 - Установка Ansible
