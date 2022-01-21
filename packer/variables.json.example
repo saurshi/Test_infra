@@ -1,5 +1,0 @@
-{
-  "service_account_key_file": "packer/yc-iam-key.json.example",
-  "folder_id": "folder-id-from-yc",
-  "image_name": "image-name"
-}
